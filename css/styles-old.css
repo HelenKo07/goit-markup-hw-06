@@ -2,15 +2,15 @@
 /* ----------------------------------------- */
 /* Footer styles start */
 
-.footer-section {
+/* .footer-section {
   background-color: #2e2f42;
-}
+} */
 
-.footer-flex-container {
+/* .footer-flex-container {
   display: flex;
   align-items: baseline;
-}
-
+} */
+/* 
 .footer-name-container {
   margin-right: 120px;
   padding: 100px 0;
@@ -26,42 +26,42 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-}
+} */
 
-.footer-logo .footer-logo-part {
+/* .footer-logo .footer-logo-part {
   color: #f4f4fd;
-}
+} */
 
-.footer-text {
+/* .footer-text {
   max-width: 264px;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-}
+} */
 
-.footer-social-container {
+/* .footer-social-container {
   padding: 100px 0 132px;
-}
+} */
 
-.footer-social-text {
-  display: inline-block;
-  font-weight: 500;
+/* .footer-social-text {
+  display: inline-block; */
+  /* font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;
   margin-bottom: 16px;
-}
+} */
 
-.footer-social-list {
+/* .footer-social-list {
   padding-left: 0;
   display: flex;
   gap: 16px;
-}
+} */
 
-.footer-item-social-link {
+/* .footer-item-social-link {
   width: 40px;
   height: 40px;
   display: flex;
@@ -77,16 +77,16 @@
 .footer-item-social-link:hover,
 .footer-item-social-link:focus {
   background-color: #31d0aa;
-}
+} */
 
-.order-form-conteiner {
+/* .order-form-conteiner {
   width: 453px;
   height: 100%;
   margin-left: 80px;
   padding: 100px 0 132px;
-}
+} */
 
-.form-filed-text {
+/* .form-filed-text {
   display: block;
   font-weight: 500;
   font-size: 16px;
@@ -94,14 +94,14 @@
   letter-spacing: 0.02em;
   color: #fff;
   margin-bottom: 16px;
-}
+} */
 
-.footer-order-form {
+/* .footer-order-form {
   display: flex;
   gap: 24px;
-}
+} */
 
-.order-form-input {
+/* .order-form-input {
   display: flex;
   padding-left: 16px;
   border: 1px solid #fff;
@@ -116,14 +116,14 @@
   line-height: 2;
   letter-spacing: 0.04em;
   color: #ffffff;
-}
+} */
 
-.order-form-input::placeholder {
+/* .order-form-input::placeholder {
   color: #ffffff;
   padding: 8px 0 8px 8px;
-}
+} */
 
-.subscribe-form-btn {
+/* .subscribe-form-btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -153,7 +153,7 @@
 .subscribe-icon {
   margin-left: 16px; 
   fill: #fff;
-}
+} */
 
 /* Footer styles end */
 
