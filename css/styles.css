@@ -264,7 +264,7 @@ img {
   position: absolute;
   top: 24px;
   right: 24px;
-   display: flex;
+  display: flex;
   align-items: center;
   justify-content: center;
   background-color: transparent;
