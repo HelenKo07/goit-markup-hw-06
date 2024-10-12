@@ -408,6 +408,7 @@ img {
   background-size: cover;
   color: #fff;
   margin: 0 auto;
+  padding: 72px 52px;
 }
 
 @media screen and (max-width: 767px) and (min-resolution: 192dpi) {
@@ -418,6 +419,7 @@ img {
         rgba(46, 47, 66, 0.7)
       ),
       url(../images/retina/backgraund-mobile/bg-mob@2x.jpg);
+    padding: 112px 136px;
   }
 }
 
